@@ -1,29 +1,7 @@
 Data Science Dojo <br/>
 Copyright (c) 2019 - 2020
 
----
-
-**Level:** Beginner <br/>
-**Recommended Use:** Classification Models<br/>
-**Domain:** Automobile<br/> 
-
-## Car Evaluation Data Set 
-
-### Predict acceptibility of a car
-
-
----
-![](1190.jpg)
----
-
-This *beginner* level data set was derived from a decision-making model which was originally developed for research on multi-attribute decision making. 
-Decision making involves selection between seemingly conflicting alternatives. 
-
-The data set has 1728 rows and 7 columns in which car attributes such as price and technology are described across 6 attributes such as "Buying Price", "Maintenance", and "Safety" etc. There are multiple alternatives under each of the 6 attributes. Car's acceptability,
-the seventh attribute, is the outcome variable.         
-
-This data set is recommended for learning and practicing your skills in **classification modelling techniques**. Feel free to explore the data set with multiple 
-classification methods. The Following data dictionary gives more details on this data set:
+### Predecir la aceptabilidad de los autos
 
 ---
 
